@@ -1,4 +1,4 @@
-**Performing EDA on Framingham Dataset**
+# **Performing EDA on Framingham Dataset**
 
 *An Exploratory Data Analysis performed on the Framingham Dataset to predict heart disease.*
 
